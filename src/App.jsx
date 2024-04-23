@@ -1,12 +1,22 @@
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Highlight from "./components/Highlight";
+import Model from "./components/Model";
+import Features from "./components/Features";
+import HowItWorks from "./components/HowItWorks";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
-    <>
-      <h1 className="text-3xl underline">Hello world!</h1>
-    </>
+    <main className="bg-black">
+      <Navbar />
+      <Hero />
+      <Highlight />
+      <Model />
+      <Features />
+      <HowItWorks />
+      <Footer />
+    </main>
   );
 };
 
