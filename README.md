@@ -1,5 +1,7 @@
 # React + GSAP 
 
+This project is fully animated. You may git clone to see the animations.
+
 ## Project Overview
 
 ![image](https://github.com/Jevonzz/apple-web/assets/109259972/b4f161b0-be58-46b7-ac0b-00bf7671550c)
